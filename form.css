@@ -1,0 +1,16 @@
+.tsx12{
+    background-image: url(./img7.jpg);
+    height: 400px;
+    width:400px;
+   
+    /* margin:20px 500px; */
+    /* padding:10px 0px; */
+}
+.mr12{
+    margin:20px;
+
+}
+h2{
+    padding-top:5px;
+    color:#0505b3;
+}
